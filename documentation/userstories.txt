@@ -1,0 +1,6 @@
+K‰ytt‰j‰n‰ haluan tehd‰ t‰m‰n ruoan.
+K‰ytt‰j‰n‰ haluan tehd‰ ruoan, jossa on t‰m‰/n‰m‰ ainesosat.
+K‰ytt‰j‰n‰ haluan tehd‰ ateriakokonaisuuden, joka sis‰lt‰‰ n‰m‰ ruoat.
+
+Adminina voin lis‰t‰ ruokia, juomia, ateriakokonaisuuksia ja ainesosia.
+Adminina voin muuttaa ruokien sis‰lt‰mi‰ ainesosia ja ateriakokonaisuuksien sis‰lt‰mi‰ ruokia ja juomia.
